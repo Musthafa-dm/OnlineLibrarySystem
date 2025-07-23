@@ -96,4 +96,8 @@ I developed it from scratch using PHP and MySQL without using any frameworks.
 Feel free to clone or fork this for your own learning or enhancement.
 
 
+Added full project readme
+
+
+
 
